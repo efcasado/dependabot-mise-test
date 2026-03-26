@@ -1,0 +1,6 @@
+[tools]
+elixir = "1.17.3-otp-26"
+erlang = "27.0.1"
+node = "25"
+pnpm = "10.28.2"
+watchexec = "latest"
